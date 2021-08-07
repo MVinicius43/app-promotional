@@ -1,13 +1,14 @@
 //Components
-import { Box } from '@material-ui/core'
 import Toolbar from './components/Toolbar'
 import FilterPanel from './components/FilterPanel';
+import DataPanel from './components/DataPanel';
 
 const App = () => {
   return (
     <>
       <Toolbar/>
       <FilterPanel />
+      <DataPanel />
     </>
   );
 }
