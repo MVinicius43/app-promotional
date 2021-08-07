@@ -20,7 +20,7 @@ const FilterPanel = () => {
     const classes = useStyles();
 
     return (
-        <Box marginTop='90px' display='flex' flexDirection='row'>
+        <Box marginTop='80px' display='flex' flexDirection='row'>
             <Box>
                 <IconButton>
                     <Search/>

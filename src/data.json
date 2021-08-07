@@ -1,0 +1,20 @@
+[
+    {
+        "nome": "Coca-Cola 350 mL",
+        "qtd": 35,
+        "preço": "R$ 3,50",
+        "promoção": "R$ 2,99"
+    },
+    {
+        "nome": "X-Burguer",
+        "qtd": 55,
+        "preço": "R$ 42,35",
+        "promoção": "R$ 40,00"
+    },
+    {
+        "nome": "Espeto de Carne",
+        "qtd": 80,
+        "preço": "R$ 4,50",
+        "promoção": "R$ 3,50"
+    }
+]
